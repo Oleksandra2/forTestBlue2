@@ -1,6 +1,6 @@
 ---
-title: Install the SAP HANA Client Test Blue
-description: Learn about the multiple ways to install the SAP HANA client.
+title: Install the SAP HANA Client Test Blue Install the SAP HANA Client Test Blue
+description: Learn about the multiple ways to install the SAP HANA client. Learn about the multiple ways to install the SAP HANA client. Learn about the multiple ways to install the SAP HANA client. Learn about the multiple ways to install the SAP HANA client. Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 10
 tags: [ tutorial>beginner, topic>sql, tutorial>community, tutorial>license ]
